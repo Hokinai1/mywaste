@@ -1,0 +1,112 @@
+[
+  {
+    "nom": "Point Collecte Dapaong Centre",
+    "localite": "Dapaong",
+    "type": "Plastique",
+    "date": "Lundi 10h",
+    "latitude": 10.86225,
+    "longitude": 0.20762,
+    "responsable": "Kossi Adjeoda",
+    "contact": "+22890123456",
+    "description": "Collecte des plastiques dans le centre-ville de Dapaong."
+  },
+  {
+    "nom": "Point Collecte Mango Marché",
+    "localite": "Mango",
+    "type": "Papier",
+    "date": "Mardi 9h",
+    "latitude": 10.35556,
+    "longitude": 0.47556,
+    "responsable": "Ama Tchalla",
+    "contact": "+22891234567",
+    "description": "Collecte de papiers et cartons près du marché de Mango."
+  },
+  {
+    "nom": "Point Collecte Cinkassé Poste",
+    "localite": "Cinkassé",
+    "type": "Verre",
+    "date": "Mercredi 11h",
+    "latitude": 11.0978,
+    "longitude": 0.0145,
+    "responsable": "Kodjo Mensah",
+    "contact": "+22892345678",
+    "description": "Collecte des verres près de la poste de Cinkassé."
+  },
+  {
+    "nom": "Point Collecte Pogno",
+    "localite": "Pogno",
+    "type": "Organique",
+    "date": "Jeudi 8h",
+    "latitude": 10.30,
+    "longitude": 0.34,
+    "responsable": "Sita Kountché",
+    "contact": "+22893456789",
+    "description": "Collecte des déchets organiques à Pogno."
+  },
+  {
+    "nom": "Point Collecte Nayargou",
+    "localite": "Nayargou",
+    "type": "Plastique",
+    "date": "Vendredi 14h",
+    "latitude": 10.7167,
+    "longitude": 0.35,
+    "responsable": "Yawa Dossou",
+    "contact": "+22894567890",
+    "description": "Collecte des plastiques à Nayargou."
+  },
+  {
+    "nom": "Point Collecte Katindi",
+    "localite": "Katindi",
+    "type": "Papier",
+    "date": "Samedi 10h",
+    "latitude": 10.8333,
+    "longitude": 0.35,
+    "responsable": "Akouavi Agossa",
+    "contact": "+22895678901",
+    "description": "Collecte de papiers à Katindi."
+  },
+  {
+    "nom": "Point Collecte Tandjouaré",
+    "localite": "Tandjouaré",
+    "type": "Verre",
+    "date": "Lundi 15h",
+    "latitude": 10.6,
+    "longitude": 0.3,
+    "responsable": "Kouami Amegashie",
+    "contact": "+22896789012",
+    "description": "Collecte de verres à Tandjouaré (approx. coords)."
+  },
+  {
+    "nom": "Point Collecte Barkoissi",
+    "localite": "Barkoissi",
+    "type": "Organique",
+    "date": "Mardi 16h",
+    "latitude": 10.4,
+    "longitude": 0.2,
+    "responsable": "Mawuli Ahossa",
+    "contact": "+22897890123",
+    "description": "Collecte des déchets organiques à Barkoissi (approx.)."
+  },
+  {
+    "nom": "Point Collecte Mandouri",
+    "localite": "Mandouri",
+    "type": "Papier",
+    "date": "Mercredi 9h",
+    "latitude": 10.8,
+    "longitude": 0.25,
+    "responsable": "Florence Kpatcha",
+    "contact": "+22898901234",
+    "description": "Collecte de papiers à Mandouri (approx.)."
+  },
+  {
+    "nom": "Point Collecte Région de Tône",
+    "localite": "Tône",
+    "type": "Plastique",
+    "date": "Jeudi 11h",
+    "latitude": 10.86225,
+    "longitude": 0.20762,
+    "responsable": "Ami Kodjo",
+    "contact": "+22899012345",
+    "description": "Collecte des plastiques dans la région de Tône (zone Dapaong)."
+  }
+]
